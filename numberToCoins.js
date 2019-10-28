@@ -1,4 +1,4 @@
-function numberToCoin(num){
+    function ConvertToCoin(num){
     result = []
     pecahan = [10000, 5000, 2000, 1000, 500, 200, 100, 50, 20, 10, 1]
     
